@@ -1,2 +1,3 @@
 # first_repo
-Creating first repository on Github
+Creating first repository on Github.
+Hello World.  
